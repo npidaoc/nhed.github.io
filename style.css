@@ -409,13 +409,12 @@ overflow: auto;
     height: 90%;
   }
   
-  @media (max-width: 1000px) {
-    .about-us, .our-history  {
-      flex-direction: column;
-      margin-right: 50px;
-      margin: 0% 10px 0 10px;
-    }
+@media (max-width: 1000px) {
+  .about-us, .our-history  {
+    flex-direction: column;
+    margin: 0 10px;
   }
+}
 
   /* about us / page 2 */
 
