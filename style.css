@@ -171,8 +171,8 @@ overflow: auto;
 /* Services */
 .grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns */
-  gap: 20px; /* Adjust the gap between grid items as needed */
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
 }
 
 /* Style the grid items */
@@ -309,7 +309,7 @@ overflow: auto;
 }
 
 .driver img {
-  width: 80%; /* Adjusted for responsiveness */
+  width: 80%;
   height: auto;
   margin-top: -10%;
 }
@@ -513,12 +513,12 @@ overflow: auto;
 }
 
 .contact-info {
-  width: 50%; /* Adjusted width */
+  width: 50%;
 }
 
 .contact-info-item {
   display: flex;
-  align-items: center; /* Align items vertically */
+  align-items: center;
   margin-bottom: 30px;
 }
 
@@ -650,6 +650,21 @@ overflow: auto;
   .contact-form {
     width: 100%;
   }
+}
+
+/* Privcy Policy */
+
+.privacy {
+  margin: 100px 50px 50px 50px;
+}
+
+.privacy h2 {
+  color: #f68a2a;
+  font-size: 1em;
+}
+
+.pivacy p {
+  font-size: .5em;
 }
 
 /* terms and condition */
