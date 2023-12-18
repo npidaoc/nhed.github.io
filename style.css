@@ -727,6 +727,10 @@ overflow: auto;
     margin-left: 20px;
   }
 
+ .column3 img {
+   border-radius: 50%;
+  }
+
   .column4{
     margin-right: 8px;
   }
