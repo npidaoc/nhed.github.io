@@ -3,6 +3,10 @@
 	min-width: 100vw !important;
 } */
 
+body{
+  margin-left: 50px;
+}
+
 
 html {
     font-size: 32px;
