@@ -652,6 +652,23 @@ overflow: auto;
   }
 }
 
+/* FAQS */
+
+.faqs {
+  margin: 100px 50px 50px 50px;
+}
+
+
+.faqs h2 {
+  color: #f68a2a;
+  font-size: 1em;
+}
+
+.faqs p {
+  font-size: 25px;
+}
+
+
 /* Privcy Policy */
 
 .privacy {
